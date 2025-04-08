@@ -26,7 +26,7 @@ Alat untuk mengambil ulasan aplikasi Traveloka dari Google Play Store dengan imp
 2. Install dependensi yang diperlukan:
 
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt --break-system-packages
 ```
 
 ## Penggunaan
