@@ -1,6 +1,0 @@
-# google-play-scraper==1.2.0
-# pandas==2.1.0
-# matplotlib==3.7.2 
-google-play-scraper
-pandas
-matplotlib
