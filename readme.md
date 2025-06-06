@@ -19,6 +19,9 @@
 3. Install Dependencies
     ```bash
     pip install -r requirements.txt
+
+    # Jika tanpa virtualenv
+    pip install -r requirements.txt --break-system-packages
     ```
 4. Jalankan Script
     ```bash
